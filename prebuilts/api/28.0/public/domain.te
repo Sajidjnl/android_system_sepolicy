@@ -1387,3 +1387,9 @@ neverallow {
   -init
   -ueventd
 } mnt_vendor_file:dir *;
+
+# Vendor domian must not have access to /mnt/product.
+neverallow {
+  domain
+  -coredomain
+} mnt_product_file:dir *;
