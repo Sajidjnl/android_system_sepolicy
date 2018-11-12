@@ -87,6 +87,7 @@
     perfprofd_service
     property_info
     sdcard_posfix
+    sdcard_posix
     secure_element
     secure_element_device
     secure_element_tmpfs

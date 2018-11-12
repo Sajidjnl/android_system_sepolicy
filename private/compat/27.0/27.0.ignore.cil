@@ -78,6 +78,7 @@
     secure_element_service
     secure_element_tmpfs
     sdcard_posfix
+    sdcard_posix
     slice_service
     stats
     stats_data_file
