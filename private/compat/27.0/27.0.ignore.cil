@@ -77,6 +77,7 @@
     secure_element_device
     secure_element_service
     secure_element_tmpfs
+    sdcard_posfix
     slice_service
     stats
     stats_data_file
@@ -90,6 +91,7 @@
     statsdw_socket
     storaged_data_file
     sudaemon
+    sysfs_disk_stat
     system_boot_reason_prop
     system_update_service
     test_boot_reason_prop
